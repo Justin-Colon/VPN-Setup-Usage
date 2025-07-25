@@ -33,10 +33,10 @@ This tutorial outlines VPN setup and usage from within a vm in a different geogr
 <h2>VPN setup and Usage Steps</h2>
 
 <p>
-<img src="https://github.com/Justin-Colon/microsoft-azure/blob/025cf374a8347de9f804e48843783efd72fa6cf6/Virtual%20Machine%20Tutorial/VM%201%20.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/Justin-Colon/VPN-Setup-Usage/blob/ac1b2f558e614fb2c2a489b783baa399a0eaa826/vpn/vpn1%20.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-The home page of microsoft azure is where the magic happens. This is where you can create anything based off your needs like storage accounts, resource groups, vm's, etc. 
+First I start by configuring my windows 10 vm with the basics. 
 </p>
 <br />
 
