@@ -49,10 +49,10 @@ Here is where we search https://whatismyipaddress.com/ just to get the IP addres
 <br />
 
 <p>
-<img src="https://github.com/Justin-Colon/microsoft-azure/blob/0753a8d8c22e5c46187a1833b127f44ea58a2c8a/Virtual%20Machine%20Tutorial/vm%203%20.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/Justin-Colon/VPN-Setup-Usage/blob/5bd98f4418a52f75fce756bec083167f16cf5d49/vpn/vpn4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Click “+ Create” and the reason why we are creating a resource group is just to have a folder for our project which in this case is out VM.
+I did the samething in our VM this time and as you can see our IP address and region is different from our actual computer. We have established a tunnel between our computer and the vm using a non vpn connection. 
 </p>
 <br />
 
