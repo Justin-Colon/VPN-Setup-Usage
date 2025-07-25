@@ -84,15 +84,15 @@ Looks like I got placed in Japan, awesome!
 <img src="https://github.com/Justin-Colon/VPN-Setup-Usage/blob/bf01e8f8025c26c8345391307e6fd24e2b66e2e1/vpn/vpn9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-I used the same website that used previously to grab the IP address of my computer and my vm to discover my now new IP address since I have been placed on a Japan server. 
+I used the same website that used previously to grab the IP address of my computer and my vm to discover my now new IP address using a vpn connection since I have been placed on a Japan server. 
 </p>
 <br />
 
 <p>
-<img src="https://github.com/Justin-Colon/VPN-Setup-Usage/blob/dfc9cade11a926a3a6d99e0f8fd6434677159714/vpn/vpn8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/Justin-Colon/VPN-Setup-Usage/blob/ac765766c32dbaec4cd56bcfb1d6d1b1dd627628/vpn/vpn10.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Looks like I got placed in Japan, awesome!
+Now to recap this project. I created a vm with the purpose of observing vpn traffic. I started the project by establishing a tunnel between my actual operating machine and the azure vm that I created from scratch. From that tunnel I had two different IP addresses. Then I created a tunnel on my vm with the server in Japan using a vpn connection which allowed me to use the Japan server as if I physically was behind a desk in Japan using the internet. Proton vpn connections are used commonly because it hides your actual IP address which encrypts your internet traffic, which then also allows you to bypass censorship and geo blocks. 
 </p>
 <br />
 
