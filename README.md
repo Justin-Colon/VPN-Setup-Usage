@@ -88,4 +88,13 @@ I used the same website that used previously to grab the IP address of my comput
 </p>
 <br />
 
+<p>
+<img src="https://github.com/Justin-Colon/VPN-Setup-Usage/blob/dfc9cade11a926a3a6d99e0f8fd6434677159714/vpn/vpn8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Looks like I got placed in Japan, awesome!
+</p>
+<br />
+
+
 
