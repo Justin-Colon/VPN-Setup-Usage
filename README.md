@@ -65,11 +65,19 @@ Now I have gone ahead and downloaded proton vpn onto my vm only.
 <br />
 
 <p>
-<img src="https://github.com/Justin-Colon/microsoft-azure/blob/4a0d9aa58f22c4771b1455e066e66ae8b3ab9a98/Virtual%20Machine%20Tutorial/vm5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/Justin-Colon/VPN-Setup-Usage/blob/7d37defcbd12b33be0da4ee42d1ee9620c9a821f/vpn/vpn7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Now that we have created our resource group, let's create our vm that will be stored inside of our resource group.
+Once proton vpn aplication is fully downloaded onto my vm I will click connect which then the system will place me anywhere in the world with one of their free auto selected servers.
 </p>
 <br />
 
 <p>
+<img src="https://github.com/Justin-Colon/VPN-Setup-Usage/blob/7d37defcbd12b33be0da4ee42d1ee9620c9a821f/vpn/vpn7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Once proton vpn aplication is fully downloaded onto my vm I will click connect which then the system will place me anywhere in the world with one of their free auto selected servers.
+</p>
+<br />
+
+
