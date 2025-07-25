@@ -73,10 +73,18 @@ Once proton vpn aplication is fully downloaded onto my vm I will click connect w
 <br />
 
 <p>
-<img src="https://github.com/Justin-Colon/VPN-Setup-Usage/blob/7d37defcbd12b33be0da4ee42d1ee9620c9a821f/vpn/vpn7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/Justin-Colon/VPN-Setup-Usage/blob/dfc9cade11a926a3a6d99e0f8fd6434677159714/vpn/vpn8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Once proton vpn aplication is fully downloaded onto my vm I will click connect which then the system will place me anywhere in the world with one of their free auto selected servers.
+Looks like I got placed in Japan, awesome!
+</p>
+<br />
+
+<p>
+<img src="https://github.com/Justin-Colon/VPN-Setup-Usage/blob/dfc9cade11a926a3a6d99e0f8fd6434677159714/vpn/vpn8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Looks like I got placed in Japan, awesome!
 </p>
 <br />
 
