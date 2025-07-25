@@ -41,10 +41,10 @@ First I start by configuring my windows 10 vm with the basics.
 <br />
 
 <p>
-<img src="https://github.com/Justin-Colon/microsoft-azure/blob/b5ccb449bfeaf876da00d9a49b12847d6a9dac4a/Virtual%20Machine%20Tutorial/VM%202.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/Justin-Colon/VPN-Setup-Usage/blob/9cc93bada740c7d6b72a3077a48616211f52cef5/vpn/vpn3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-In the search bar at the top, type "Resource Groups" and click it.
+Here is where we search https://whatismyipaddress.com/ just to get the IP address of our personal computer.
 </p>
 <br />
 
