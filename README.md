@@ -57,10 +57,10 @@ I did the samething in our VM this time and as you can see our IP address and re
 <br />
 
 <p>
-<img src="https://github.com/Justin-Colon/microsoft-azure/blob/849594f033d2cb6873d16afe66a5447c689a9676/Virtual%20Machine%20Tutorial/vm%204.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/Justin-Colon/VPN-Setup-Usage/blob/74e8d6a079e848329393848d0471de1999570fa2/vpn/vpn5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Configuring the basics then selecting review + create once complete.
+Now I have gone ahead and downloaded proton vpn onto my vm only.
 </p>
 <br />
 
