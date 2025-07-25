@@ -30,7 +30,7 @@ This tutorial outlines VPN setup and usage from within a vm in a different geogr
 - Public IP Address(Optinal)
 - Inbound Port Rules
 
-<h2>Installation Steps</h2>
+<h2>VPN setup and Usage Steps</h2>
 
 <p>
 <img src="https://github.com/Justin-Colon/microsoft-azure/blob/025cf374a8347de9f804e48843783efd72fa6cf6/Virtual%20Machine%20Tutorial/VM%201%20.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
