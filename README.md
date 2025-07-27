@@ -3,7 +3,7 @@
 </p>
 
 <h1>VPN Setup and Usage</h1>
-This tutorial outlines VPN setup and usage from within a vm in a different geographical area and my very own machine. .<br />
+This tutorial outlines VPN setup and usage from within a vm in a different geographical area and my very own machine. <br />
 
 
 
